@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa45c18b-41cb-4dac-9d8a-8877a2c150a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Driver/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Testcases/TC001_Lear_Git.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/TC001_Lear_Git.robot" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +25,13 @@
   <component name="ProjectId" id="1QufiPJmZhCIQ9msGlsKdVetmA1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Driver" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\LocalRepository_Robot\Practise_RobotFramework\Driver" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

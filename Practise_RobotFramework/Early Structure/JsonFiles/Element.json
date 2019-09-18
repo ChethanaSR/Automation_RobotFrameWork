@@ -1,0 +1,15 @@
+{
+  "NewAccount":
+    {
+      "FirstName_TextBox": "//input[@name='firstname']",
+      "LastName_TextBox": "//input[@name='lastname']",
+      "Mobile_Email_TextBox": "//input[@name='reg_email__']",
+      "Password_TextBox": "//input[@name='reg_passwd__']"
+    },
+  "Registration":
+      {
+        "name_textbox": "//input[@id='jform_name']",
+        "username_textbox": "//input[@id='jform_username']",
+        "password_textbox":"//input[@id='jform_password1']"
+      }
+}

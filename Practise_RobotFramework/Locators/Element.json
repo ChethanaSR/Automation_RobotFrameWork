@@ -1,0 +1,20 @@
+{
+  "Registration":
+      {
+        "name_textbox": "//input[@id='jform_name']",
+        "username_textbox": "//input[@id='jform_username']",
+        "password_textbox":"//input[@id='jform_password1']"
+      },
+  "Login":
+      {
+        "username_textbox": "//input[@name='username']",
+        "password_textbox" : "//input[@name='password']",
+        "login_button" :  "//button[@type='submit']"
+      },
+  "Login_Facebook":
+      {
+        "username_textbox": "//input[@name='email']",
+        "password_textbox": "//input[@name='pass']",
+        "Login_Button": "//input[@type='submit']"
+      }
+}
